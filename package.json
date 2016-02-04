@@ -2,7 +2,7 @@
   "name": "sane-fetch",
   "description": "A sane fetch wrapper.",
   "repository": "git://github.com/joshrtay/sane-fetch.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
